@@ -12,4 +12,8 @@
 /captures
 .externalNativeBuild
 .cxx
+# Secrets
+google-services.json
 local.properties
+*.keystore
+*.jks
